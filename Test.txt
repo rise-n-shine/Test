@@ -1,0 +1,8 @@
+Cretead a datbase with the name manohar
+>create database manohar;
+>create table Army(Uname varchar(50),password varchar(50));   
+    it is used to store the Usernames and password
+
+>create table Message(fromMsg varchar(50),toMsg varchar(50),message varchar(200));
+
+    the above table used to store the messages ,from user,to User.
